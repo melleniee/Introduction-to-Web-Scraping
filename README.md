@@ -1,4 +1,4 @@
 # Introduction-to-Web-Scraping
 
-A part of the Python Project for Data Science Coursera Course
+Web Scraping Projects from the Coursera IBM Data Science Professional Certificate Course <br />
 .ipynb derived from IBM Skills Network Lab Resources to be used as practice material for Web Scraping
